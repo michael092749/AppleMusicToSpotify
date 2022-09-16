@@ -1,0 +1,4198 @@
+{
+  "next": "/v1/catalog/za/playlists/pl.u-AkAmmKpI2bgpVPr/tracks?l=en-GB&offset=100",
+  "data": [
+    {
+      "id": "1384782417",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1384782417?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Harder Than Ever",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 17,
+        "releaseDate": "2018-04-23",
+        "durationInMillis": 195635,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71805715",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/21/04/b22104c5-b230-4e99-2b98-e99c664b88c7/18UMGIM28345.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2d",
+          "textColor2": "242424",
+          "textColor4": "4a4a4a",
+          "textColor1": "000000",
+          "bgColor": "e1e1e1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Lil Baby & Isaac Earl Bynum",
+        "url": "https://music.apple.com/za/album/never-needed-no-help/1384782173?i=1384782417",
+        "playParams": { "id": "1384782417", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Never Needed No Help",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e8/b8/8f/e8b88f4b-9845-cdd1-50e7-53a20060b741/mzaf_10987259720889061182.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      }
+    },
+    {
+      "id": "1150135947",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1150135947?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Birds in the Trap Sing McKnight",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2016-06-03",
+        "durationInMillis": 252256,
+        "isMasteredForItunes": true,
+        "isrc": "USSM11604495",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "c3bdc3",
+          "textColor2": "dd8791",
+          "textColor4": "b57077",
+          "textColor1": "eee7ef",
+          "bgColor": "161511",
+          "hasP3": false
+        },
+        "composerName": "Jacques Webster, Adam Feeney, ANDERSON HERNANDEZ, MIKE DEAN, Jeffery Williams, Allen Ritter, Quavious Marshall & Brittany Hazzard",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/pick-up-the-phone/1150135681?i=1150135947",
+        "playParams": { "id": "1150135947", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "pick up the phone",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/0f/96/9a/0f969a74-0b34-0684-c661-6ef5e7bf7081/mzaf_8895940594498998454.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Travis Scott & Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1095065278",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1095065278?l=en-GB",
+      "attributes": {
+        "albumName": "Slime Season 3",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 2,
+        "releaseDate": "2016-03-25",
+        "durationInMillis": 195413,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21601064",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/f5/b6/cb/f5b6cb03-8f8a-0529-16a6-b8cf3ace5555/dj.vftjpvpa.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "333333",
+          "textColor2": "2b100d",
+          "textColor4": "55403d",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffrey Williams & London Holmes",
+        "url": "https://music.apple.com/za/album/memo/1095065232?i=1095065278",
+        "playParams": { "id": "1095065278", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Memo",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/74/d8/8b/74d88b6e-f4a8-b45e-27f6-2484d1e5b3da/mzaf_9886793956548108989.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1440929384",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440929384?l=en-GB",
+      "attributes": {
+        "albumName": "Perfect Timing",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2017-08-24",
+        "durationInMillis": 256133,
+        "isMasteredForItunes": false,
+        "isrc": "QZ4JX1760712",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/80/f2/f1/80f2f10e-45fd-b280-7f26-cb1a748a0c51/00842812102295.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfba8d",
+          "textColor2": "dcd39d",
+          "textColor4": "b4ad82",
+          "textColor1": "eae3ab",
+          "bgColor": "151716",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones",
+        "url": "https://music.apple.com/za/album/option/1440929227?i=1440929384",
+        "playParams": { "id": "1440929384", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Option",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f4/8b/f5/f48bf52a-31bb-40f0-45ec-782b08690eaf/mzaf_16936361983332093278.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["1272902884", "1273524514"] }
+    },
+    {
+      "id": "1312028026",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1312028026?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Mood - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2017-11-17",
+        "durationInMillis": 223921,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21704529",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/c9/31/a1c93136-c034-8fd7-1883-3dc66b3864fa/075679883629.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c9c7cd",
+          "textColor2": "e97f6a",
+          "textColor4": "bb6857",
+          "textColor1": "fcf6ff",
+          "bgColor": "000f09",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/marvelous-day-feat-lil-uzi-vert-gunna/1312028024?i=1312028026",
+        "playParams": { "id": "1312028026", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Marvelous Day (feat. Lil Uzi Vert & Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/36/55/0a/36550a5c-8743-5d66-974d-0cb51e020924/mzaf_5532570302566928297.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Kap G",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "986011620",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/986011620?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Barter 6",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2015-04-17",
+        "durationInMillis": 202532,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21501224",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d1c198",
+          "textColor2": "ec6e3e",
+          "textColor4": "c25d37",
+          "textColor1": "ffedb7",
+          "bgColor": "1d161d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffery Williams & London Holmes",
+        "url": "https://music.apple.com/za/album/with-that-feat-duke/986011611?i=986011620",
+        "playParams": { "id": "986011620", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "With That (feat. Duke)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4c/f5/dd/4cf5dd70-3d43-3d27-0763-44e9f5af3314/mzaf_15237183571944926111.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1384782409",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1384782409?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Harder Than Ever",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2018-05-18",
+        "durationInMillis": 247055,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71806690",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/21/04/b22104c5-b230-4e99-2b98-e99c664b88c7/18UMGIM28345.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2d",
+          "textColor2": "242424",
+          "textColor4": "4a4a4a",
+          "textColor1": "000000",
+          "bgColor": "e1e1e1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones, Chris Rosser, Sergio Kitchens & Symere Woods",
+        "url": "https://music.apple.com/za/album/life-goes-on-feat-gunna-lil-uzi-vert/1384782173?i=1384782409",
+        "playParams": { "id": "1384782409", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Life Goes On (feat. Gunna & Lil Uzi Vert)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/29/d9/3a/29d93af5-4ddd-fe63-d19c-dc96f7f60eeb/mzaf_16090685605535621017.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      }
+    },
+    {
+      "id": "1456667851",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1456667851?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Sold Out Dates (feat. Lil Baby) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-04-17",
+        "durationInMillis": 166368,
+        "isMasteredForItunes": false,
+        "isrc": "QZ5FA1752325",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/aa/68/12/aa681269-547b-8cf2-707a-aeace94fac05/814908027775.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbc9c7",
+          "textColor2": "dfd4d5",
+          "textColor4": "b8aeae",
+          "textColor1": "f6f6f3",
+          "bgColor": "201614",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/sold-out-dates-feat-lil-baby/1456667605?i=1456667851",
+        "playParams": { "id": "1456667851", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/36/7f/84/367f84ba-600b-052e-c752-133c72c478c9/mzaf_6351966982023935433.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1440929387",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440929387?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Perfect Timing",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2017-08-24",
+        "durationInMillis": 209440,
+        "isMasteredForItunes": false,
+        "isrc": "QZ4JX1760714",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/80/f2/f1/80f2f10e-45fd-b280-7f26-cb1a748a0c51/00842812102295.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfba8d",
+          "textColor2": "dcd39d",
+          "textColor4": "b4ad82",
+          "textColor1": "eae3ab",
+          "bgColor": "151716",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones & Tyshawn Frank",
+        "url": "https://music.apple.com/za/album/9to5-feat-skulle/1440929227?i=1440929387",
+        "playParams": { "id": "1440929387", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "9To5 (feat. SkullE)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ae/8f/de/ae8fde6d-2a3f-615b-ea1d-465a4cca97d2/mzaf_4326508273492200130.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      },
+      "meta": { "formerIds": ["1272902886", "1273524516"] }
+    },
+    {
+      "id": "1440929293",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440929293?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Too Hard",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2017-12-01",
+        "durationInMillis": 162053,
+        "isMasteredForItunes": false,
+        "isrc": "QZ4JX1760834",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e3e3e",
+          "textColor2": "292929",
+          "textColor4": "494949",
+          "textColor1": "1b1b1b",
+          "bgColor": "cacaca",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones",
+        "url": "https://music.apple.com/za/album/freestyle/1440928174?i=1440929293",
+        "playParams": { "id": "1440929293", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Freestyle",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/92/8a/8a/928a8a29-70af-1235-05d1-a807995a3feb/mzaf_14817883280518005746.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["1318501583", "1318488698"] }
+    },
+    {
+      "id": "1457012060",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1457012060?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Drip or Drown",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2017-11-30",
+        "durationInMillis": 169896,
+        "isMasteredForItunes": false,
+        "isrc": "QZ5FA1751848",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/c6/0c/77/c60c7700-039d-0436-4054-6c55c78788a8/814908027690.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "9bbdc7",
+          "textColor2": "9be6ee",
+          "textColor4": "83bbc6",
+          "textColor1": "b8e9f0",
+          "bgColor": "240d25",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/award/1457012036?i=1457012060",
+        "playParams": { "id": "1457012060", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Award",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/00/cd/55/00cd553d-5197-96da-d509-4fa9109aaf6f/mzaf_1943073235205261100.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1081108460",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1081108460?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "I\u2019m Up",
+        "genreNames": ["Hip-Hop", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 4,
+        "releaseDate": "2016-02-05",
+        "durationInMillis": 225669,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21600465",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/ca/29/79/ca297996-8ff5-0d22-e952-f8821b61ecb5/dj.rvgznmmh.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "262c30",
+          "textColor2": "04361f",
+          "textColor4": "295849",
+          "textColor1": "000000",
+          "bgColor": "bfe0f3",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffrey Williams & Wesley Glass",
+        "url": "https://music.apple.com/za/album/king-troup/1081108268?i=1081108460",
+        "playParams": { "id": "1081108460", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "hi-res-lossless", "lossless"],
+        "name": "King TROUP",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c7/af/3f/c7af3ff2-501c-b631-e032-538b2dad14a7/mzaf_14638181249465999882.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1437005632",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1437005632?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "On the Rvn - EP",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2018-09-24",
+        "durationInMillis": 250373,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21811268",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/b1/81/dbb181d8-8afb-b394-9d97-36f10e0de1de/075679862259.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "303030",
+          "textColor2": "202020",
+          "textColor4": "424242",
+          "textColor1": "0a0a0a",
+          "bgColor": "cacaca",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffrey Williams, Rex Kudo & Ryan Vojtesak",
+        "url": "https://music.apple.com/za/album/real-in-my-veins-feat-t-shyne/1437005625?i=1437005632",
+        "playParams": { "id": "1437005632", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Real in My Veins (feat. T-Shyne)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b2/ea/9d/b2ea9d75-8f72-a6f0-6a6d-768065832b66/mzaf_1494213336374323638.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Young Thug"
+      }
+    },
+    {
+      "id": "1445283827",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1445283827?l=en-GB",
+      "attributes": {
+        "albumName": "Lifestyle (feat. Young Thug & Rich Homie Quan) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2014-06-05",
+        "durationInMillis": 269637,
+        "isMasteredForItunes": true,
+        "isrc": "USCM51400196",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/b7/da/7eb7dac8-2189-c9d1-a62c-58dac92bb7e3/00602537917280.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "cacaca",
+          "textColor2": "e2e2e2",
+          "textColor4": "b5b5b5",
+          "textColor1": "fcfcfc",
+          "bgColor": "020200",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Bryan Williams, Jeffery Williams, Dequantes Lamar & London Holmes",
+        "url": "https://music.apple.com/za/album/lifestyle-feat-young-thug-rich-homie-quan/1445283826?i=1445283827",
+        "playParams": { "id": "1445283827", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Lifestyle (feat. Young Thug & Rich Homie Quan)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/dd/13/97/dd139796-51be-d642-9917-03b5e683d723/mzaf_1052076132910157273.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Rich Gang",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["886574292", "886259215"] }
+    },
+    {
+      "id": "1441035497",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1441035497?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feed Tha Streets ll",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2018-07-20",
+        "durationInMillis": 157657,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21811797",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/67/4b/a5/674ba57f-14da-c90d-ce05-6d5c4377ecd4/075679860378.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "313131",
+          "textColor2": "282828",
+          "textColor4": "4b4b4b",
+          "textColor1": "080808",
+          "bgColor": "d9d9d9",
+          "hasP3": false
+        },
+        "composerName": "London Holmes, Rex Kudo & Rodrick Moore",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/die-young/1441035452?i=1441035497",
+        "playParams": { "id": "1441035497", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Die Young",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/56/33/5b/56335b40-275d-a8ce-a0e4-16ceaea72b76/mzaf_6422826103788729237.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1441035508",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1441035508?l=en-GB",
+      "attributes": {
+        "albumName": "Feed Tha Streets ll",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2018-11-02",
+        "durationInMillis": 224002,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21811803",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/67/4b/a5/674ba57f-14da-c90d-ce05-6d5c4377ecd4/075679860378.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "313131",
+          "textColor2": "282828",
+          "textColor4": "4b4b4b",
+          "textColor1": "080808",
+          "bgColor": "d9d9d9",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Rodrick Moore, Scott Storch & Vincent van den Ende",
+        "url": "https://music.apple.com/za/album/down-below/1441035452?i=1441035508",
+        "playParams": { "id": "1441035508", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Down Below",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e9/01/ba/e901bab5-df93-6d9d-eac5-6b0ea8551575/mzaf_10189718686199381435.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1441035506",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1441035506?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Feed Tha Streets ll",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "2018-10-28",
+        "durationInMillis": 214376,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21811619",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/67/4b/a5/674ba57f-14da-c90d-ce05-6d5c4377ecd4/075679860378.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "313131",
+          "textColor2": "282828",
+          "textColor4": "4b4b4b",
+          "textColor1": "080808",
+          "bgColor": "d9d9d9",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Bishop Grinnage, Joshua Cross & Rodrick Moore",
+        "url": "https://music.apple.com/za/album/every-season/1441035452?i=1441035506",
+        "playParams": { "id": "1441035506", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Every Season",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/67/e3/dd/67e3ddaf-bbac-54a9-95c1-dc2503382d2f/mzaf_3004235699475591198.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Roddy Ricch"
+      }
+    },
+    {
+      "id": "1452313875",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1452313875?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Drip or Drown 2",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2019-02-22",
+        "durationInMillis": 241995,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE31902024",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/45/31/9645314d-34fc-3fc4-0339-85e30f455cd9/814908027522.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "293e45",
+          "textColor2": "121f24",
+          "textColor4": "2e4349",
+          "textColor1": "0c1a1f",
+          "bgColor": "9dd1de",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Chandler Durham, Jeffery Williams, Sergio Kitchens & Wesley Glass",
+        "url": "https://music.apple.com/za/album/3-headed-snake-feat-young-thug/1452313862?i=1452313875",
+        "playParams": { "id": "1452313875", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "3 Headed Snake (feat. Young Thug)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4e/f2/c4/4ef2c4c5-9301-42b7-96f1-a83df89773c7/mzaf_15707148016586860585.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "986011620",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/986011620?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Barter 6",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2015-04-17",
+        "durationInMillis": 202532,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21501224",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d1c198",
+          "textColor2": "ec6e3e",
+          "textColor4": "c25d37",
+          "textColor1": "ffedb7",
+          "bgColor": "1d161d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffery Williams & London Holmes",
+        "url": "https://music.apple.com/za/album/with-that-feat-duke/986011611?i=986011620",
+        "playParams": { "id": "986011620", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "With That (feat. Duke)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4c/f5/dd/4cf5dd70-3d43-3d27-0763-44e9f5af3314/mzaf_15237183571944926111.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1058958346",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1058958346?l=en-GB",
+      "attributes": {
+        "albumName": "Best Friend - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop", "Music", "Hip-Hop/Rap"],
+        "trackNumber": 1,
+        "releaseDate": "2015-09-16",
+        "durationInMillis": 213000,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21503843",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/0a/a8/1e0aa8c3-fa00-a7e2-341c-361dcb3fdc55/mzm.kwfexrfc.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbcacc",
+          "textColor2": "f0fffb",
+          "textColor4": "c0ccc9",
+          "textColor1": "fefdff",
+          "bgColor": "010104",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Babatunde Balogun, Jeffrey Lamar Williams, Kalia Ola Asugha, Rhondo Robinson, Ricky Harrell Jr & Sean McNichol",
+        "url": "https://music.apple.com/za/album/best-friend/1058958304?i=1058958346",
+        "playParams": { "id": "1058958346", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Best Friend",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/af/a1/64/afa164b6-b815-a693-3561-c4cc127a621e/mzaf_17126774653801758803.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1381553562",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1381553562?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Die Lit",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 17,
+        "releaseDate": "2018-05-11",
+        "durationInMillis": 217960,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71804174",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/a2/38/52/a23852d9-21e4-5ac5-6d75-2682fecdda46/18UMGIM26096.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b9b9b9",
+          "textColor2": "d2d2d2",
+          "textColor4": "a8a8a8",
+          "textColor1": "e8e8e8",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jordan Carter, Jeffery Williams & Jordan Jenks",
+        "url": "https://music.apple.com/za/album/choppa-wont-miss-feat-young-thug/1381553184?i=1381553562",
+        "playParams": { "id": "1381553562", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Choppa Won't Miss (feat. Young Thug)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7b/55/de/7b55dea1-c526-62e3-6be5-9bec68ad19f0/mzaf_18030700138232453621.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Playboi Carti"
+      }
+    },
+    {
+      "id": "1469334068",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1469334068?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Out the Mud - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-06-21",
+        "durationInMillis": 157816,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11900742",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/b7/e5/d1/b7e5d183-08ec-f0e7-d6f5-1a93e0700623/19UMGIM55603.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cccabf",
+          "textColor2": "d1c3b5",
+          "textColor4": "b5a79b",
+          "textColor1": "eeeee3",
+          "bgColor": "473a31",
+          "hasP3": false
+        },
+        "composerName": "Chris Rosser, Dominique Jones, Nayvadius Wilburn & Chandler Tevas Ingram",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/out-the-mud/1469334065?i=1469334068",
+        "playParams": { "id": "1469334068", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Out the Mud",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d7/b3/6c/d7b36c0b-cf12-1192-b3a8-f6a0980b315a/mzaf_8383850525494318354.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby & Future",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1440928373",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440928373?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Too Hard",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-12-01",
+        "durationInMillis": 218200,
+        "isMasteredForItunes": false,
+        "isrc": "QZ4JX1760822",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3e3e3e",
+          "textColor2": "292929",
+          "textColor4": "494949",
+          "textColor1": "1b1b1b",
+          "bgColor": "cacaca",
+          "hasP3": false
+        },
+        "composerName": "Dominique Jones",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/to-the-top/1440928174?i=1440928373",
+        "playParams": { "id": "1440928373", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "To the Top",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3c/d3/73/3cd373ba-33bb-20e0-069e-42a0ad773aa8/mzaf_17703433525559335719.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["1318488677", "1318500965"] }
+    },
+    {
+      "id": "1384782410",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1384782410?l=en-GB",
+      "attributes": {
+        "albumName": "Harder Than Ever",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "2018-05-18",
+        "durationInMillis": 213579,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71806691",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/21/04/b22104c5-b230-4e99-2b98-e99c664b88c7/18UMGIM28345.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2d",
+          "textColor2": "242424",
+          "textColor4": "4a4a4a",
+          "textColor1": "000000",
+          "bgColor": "e1e1e1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones, Kiari Cephus & Daryl McPherson",
+        "url": "https://music.apple.com/za/album/transporter-feat-offset/1384782173?i=1384782410",
+        "playParams": { "id": "1384782410", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Transporter (feat. Offset)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/89/d2/f889d210-2325-553e-8409-764c9551ddc3/mzaf_5466197559838537904.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1384782176",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1384782176?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Harder Than Ever",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2018-05-18",
+        "durationInMillis": 192031,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71805717",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/b2/21/04/b22104c5-b230-4e99-2b98-e99c664b88c7/18UMGIM28345.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "2d2d2d",
+          "textColor2": "242424",
+          "textColor4": "4a4a4a",
+          "textColor1": "000000",
+          "bgColor": "e1e1e1",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Lil Baby & Chris Rosser",
+        "url": "https://music.apple.com/za/album/im-straight/1384782173?i=1384782176",
+        "playParams": { "id": "1384782176", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "I\u2019m Straight",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/40/75/40/407540d1-6b47-0446-2a02-fe7271ee441e/mzaf_7858692157002637934.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      }
+    },
+    {
+      "id": "1457102461",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1457102461?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Bad Habits",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2019-03-22",
+        "durationInMillis": 185760,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71904605",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/8f/23/5d/8f235d07-4c7a-56e4-0447-69ef41cc7972/19UMGIM26422.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d0c79e",
+          "textColor2": "fd234a",
+          "textColor4": "cf2141",
+          "textColor1": "fef2be",
+          "bgColor": "191a1e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Navraj Goraya, Jason Quenneville, Sugarray Henry, Mohkom Singh Bhangal, Jordan Bacchus & AMIR ESMAILIAN",
+        "url": "https://music.apple.com/za/album/tension/1457102387?i=1457102461",
+        "playParams": { "id": "1457102461", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Tension",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2a/46/9a/2a469a3a-b43e-448d-144d-cc57dd216969/mzaf_15665781982749733585.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "NAV"
+      }
+    },
+    {
+      "id": "1443677391",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1443677391?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Street Gossip",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 12,
+        "releaseDate": "2018-11-30",
+        "durationInMillis": 123429,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11802275",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/df/b1/44/dfb1447b-79ee-f7c3-8e22-374f82535153/18UMGIM77804.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c9cac5",
+          "textColor2": "dbd7ce",
+          "textColor4": "afaca5",
+          "textColor1": "fbfcf6",
+          "bgColor": "030303",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones & Gene Hixon",
+        "url": "https://music.apple.com/za/album/chastised/1443676945?i=1443677391",
+        "playParams": { "id": "1443677391", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Chastised",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/70/07/df/7007df28-d4bf-3866-7969-97e45409aef7/mzaf_817884590075626705.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      }
+    },
+    {
+      "id": "1439398886",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1439398886?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Nuthin' 2 Prove",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2018-10-19",
+        "durationInMillis": 158769,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11801948",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/9f/a7/d2/9fa7d257-42e1-cf6d-3dcb-88e523f208bf/00602577189647.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c29048",
+          "textColor2": "e1673d",
+          "textColor4": "b95634",
+          "textColor1": "ecaf57",
+          "bgColor": "18150e",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Miles Parks McCollum, Isaac Earl Bynum & Jordan Carter",
+        "url": "https://music.apple.com/za/album/get-dripped-feat-playboi-carti/1439398502?i=1439398886",
+        "playParams": { "id": "1439398886", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Get Dripped (feat. Playboi Carti)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8b/9f/d5/8b9fd5ba-fbf2-0dd3-0842-657ee1720b44/mzaf_15398326123544926083.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Yachty",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1473187057",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1473187057?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Baby - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-07-17",
+        "durationInMillis": 142417,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11900748",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/4d/33/f24d33f7-2b11-87ca-2c9e-fba3b6bb5328/19UMGIM64072.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b7bfc1",
+          "textColor2": "c5bca3",
+          "textColor4": "9f9885",
+          "textColor1": "e4edef",
+          "bgColor": "050a0d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones, Jonathan L. Kirk & Wesley Glass",
+        "url": "https://music.apple.com/za/album/baby/1473187049?i=1473187057",
+        "playParams": { "id": "1473187057", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Baby",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/36/56/43/3656432c-7431-ed25-3bc4-d4417e98f045/mzaf_8739048502780582032.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Quality Control, Lil Baby & DaBaby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1440887750",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440887750?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Playboi Carti",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 199191,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71614560",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/f9/58/95/f95895f4-0ef6-a636-241e-ba4824ef6621/17UMGIM08349.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b1744d",
+          "textColor2": "db7f4c",
+          "textColor4": "b16a3e",
+          "textColor1": "db8c5f",
+          "bgColor": "0a1505",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jordan Carter & Johnathan Stewart",
+        "url": "https://music.apple.com/za/album/no-9/1440887343?i=1440887750",
+        "playParams": { "id": "1440887750", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "No. 9",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/cf/98/2e/cf982e40-9a70-3505-8f1c-6cfac3900c1d/mzaf_5726980739038109422.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Playboi Carti",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["1224307337", "1223820750"] }
+    },
+    {
+      "id": "1440887528",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1440887528?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Playboi Carti",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2017-04-14",
+        "durationInMillis": 227044,
+        "isMasteredForItunes": false,
+        "isrc": "USUM71703101",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/f9/58/95/f95895f4-0ef6-a636-241e-ba4824ef6621/17UMGIM08349.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b1744d",
+          "textColor2": "db7f4c",
+          "textColor4": "b16a3e",
+          "textColor1": "db8c5f",
+          "bgColor": "0a1505",
+          "hasP3": false
+        },
+        "composerName": "Jordan Carter, Joshua \"Southside\" Luellen, Kendricke Brown & Cameron Murphy",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/half-half/1440887343?i=1440887528",
+        "playParams": { "id": "1440887528", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Half & Half",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/34/fa/af/34faafc0-05da-b51a-b67f-02e8c3b46cd1/mzaf_10597337348129897941.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Playboi Carti",
+        "contentRating": "explicit"
+      },
+      "meta": { "formerIds": ["1223820745", "1224307332"] }
+    },
+    {
+      "id": "1445606849",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1445606849?l=en-GB",
+      "attributes": {
+        "albumName": "Hoodie SZN",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2018-12-21",
+        "durationInMillis": 189487,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21812918",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/36/d2/67/36d26767-10a1-f99c-7d77-60a645f57542/075679857262.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "acb0bb",
+          "textColor2": "a5c2d9",
+          "textColor4": "849fb4",
+          "textColor1": "d7d7e0",
+          "bgColor": "001224",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Andrew Green, Artist Dubose, Aubrey Robinson, Daniel Hernandez, Kevin Richardson, London Holmes & Roark Bailey",
+        "url": "https://music.apple.com/za/album/swervin-feat-6ix9ine/1445606845?i=1445606849",
+        "playParams": { "id": "1445606849", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Swervin (feat. 6ix9ine)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d8/c5/d4/d8c5d4a1-0852-6679-9531-1492a2090f04/mzaf_6696820765865056099.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "A Boogie wit da Hoodie",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1211881450",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1211881450?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Drowning (feat. Kodak Black) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2017-03-10",
+        "durationInMillis": 209269,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21700435",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5b/ff/6e/5bff6edc-1665-c2e6-3e2a-5d67f97dba5e/075679898845.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "46b09e",
+          "textColor2": "51c9c0",
+          "textColor4": "41a29d",
+          "textColor1": "58dac2",
+          "bgColor": "000810",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Artist Dubose, Dieuson Octave, Jahaan Sweet & Ray Ellis Nelson II",
+        "url": "https://music.apple.com/za/album/drowning-feat-kodak-black/1211881352?i=1211881450",
+        "playParams": { "id": "1211881450", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Drowning (feat. Kodak Black)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/2f/f9/e3/2ff9e346-ec21-7af2-3300-8dde9b739888/mzaf_8798903659536743577.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "A Boogie wit da Hoodie",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1476226966",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1476226966?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Quality Control: Control The Streets, Vol. 2",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2019-08-16",
+        "durationInMillis": 157645,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11900756",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/31/af/7331afdd-d7e9-c81f-a663-8f20aa3a1141/19UMGIM64072.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b7bfc1",
+          "textColor2": "c5bca3",
+          "textColor4": "9f9885",
+          "textColor1": "e4edef",
+          "bgColor": "050a0d",
+          "hasP3": false
+        },
+        "composerName": "Kiari Cephus, Leland Wayne, Jordan Carter & Jordan Jenks",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/100-racks-feat-playboi-carti/1476226857?i=1476226966",
+        "playParams": { "id": "1476226966", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "100 Racks (feat. Playboi Carti)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ad/b2/4f/adb24f74-1d6f-34e6-fa65-30498dc48e7f/mzaf_9987943624693347463.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Quality Control & Offset",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1476636943",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1476636943?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Much Fun",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2019-08-16",
+        "durationInMillis": 193027,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21904711",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/1f/f3/57/1ff35761-4124-912a-baef-02b236c977df/075679838612.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "79b42d",
+          "textColor2": "92d624",
+          "textColor4": "75b11d",
+          "textColor1": "97d939",
+          "bgColor": "012000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/hot-feat-gunna/1476636939?i=1476636943",
+        "playParams": { "id": "1476636943", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Hot (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f9/9a/26/f99a26a5-36e0-d3ce-d068-503dbfeede39/mzaf_5739787830940426249.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1478190118",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1478190118?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "We Love You Tecca",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 12,
+        "releaseDate": "2019-07-15",
+        "durationInMillis": 116881,
+        "isMasteredForItunes": true,
+        "isrc": "SE6A91812468",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/07/79/51/0779510a-d653-2d00-2454-ff423b25fb20/19UMGIM78833.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a2217",
+          "textColor2": "37150c",
+          "textColor4": "5e2618",
+          "textColor1": "0a0f0a",
+          "bgColor": "fb6b49",
+          "hasP3": false
+        },
+        "composerName": "Tyler-Justin Anthony Sharpe & Tomislav Ratesic",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/love-me/1478189929?i=1478190118",
+        "playParams": { "id": "1478190118", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Love Me",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fc/af/ba/fcafba4a-a8a1-7897-eb3a-b7ee9c1f3ddd/mzaf_5071404341541192722.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Tecca",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1476226959",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1476226959?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": false,
+        "albumName": "Quality Control: Control The Streets, Vol. 2",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2019-08-16",
+        "durationInMillis": 217220,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11902849",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/31/af/7331afdd-d7e9-c81f-a663-8f20aa3a1141/19UMGIM64072.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b7bfc1",
+          "textColor2": "c5bca3",
+          "textColor4": "9f9885",
+          "textColor1": "e4edef",
+          "bgColor": "050a0d",
+          "hasP3": false
+        },
+        "audioLocale": "zxx",
+        "composerName": "Jonathan Kirk, Joshua Luellen, Kiari Cephus, Sergio Kitchens, Tim Gomringer & Kevin Gomringer",
+        "url": "https://music.apple.com/za/album/pink-toes-feat-gunna/1476226857?i=1476226959",
+        "playParams": { "id": "1476226959", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": false,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Pink Toes (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/21/0f/f0/210ff004-ac9a-626a-27cb-06e27d94a821/mzaf_11423665162555821163.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Quality Control, Offset & DaBaby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1478190062",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1478190062?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "We Love You Tecca",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2019-08-30",
+        "durationInMillis": 109375,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71917711",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/07/79/51/0779510a-d653-2d00-2454-ff423b25fb20/19UMGIM78833.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a2217",
+          "textColor2": "37150c",
+          "textColor4": "5e2618",
+          "textColor1": "0a0f0a",
+          "bgColor": "fb6b49",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Nick Mira, Tyler-Justin Anthony Sharpe & Taz Taylor",
+        "url": "https://music.apple.com/za/album/shots/1478189929?i=1478190062",
+        "playParams": { "id": "1478190062", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Shots",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/ca/03/78/ca0378ef-128f-1997-fa26-ecb8e2729d19/mzaf_10550829734340209582.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Tecca"
+      }
+    },
+    {
+      "id": "1441065658",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1441065658?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "NOT ALL HEROES WEAR CAPES",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2018-11-02",
+        "durationInMillis": 206813,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11802486",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/cd/87/e5/cd87e5ea-f001-04e6-4248-22f4cfbedb23/18UMGIM75545.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfcfcc",
+          "textColor2": "fefadf",
+          "textColor4": "cfccb6",
+          "textColor1": "fffffb",
+          "bgColor": "131311",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Leland Wayne, Sergio Kitchens, Jeffrey Williams & Joshua Luellen",
+        "url": "https://music.apple.com/za/album/lesbian-feat-gunna-young-thug/1441065529?i=1441065658",
+        "playParams": { "id": "1441065658", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Lesbian (feat. Gunna & Young Thug)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/72/b5/e6/72b5e60e-a22d-2517-64f5-dc482621fb16/mzaf_9441100357108795238.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Metro Boomin"
+      }
+    },
+    {
+      "id": "1483251331",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1483251331?l=en-GB",
+      "attributes": {
+        "albumName": "I Wanna Rock (feat. Gunna) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-10-15",
+        "durationInMillis": 163390,
+        "isMasteredForItunes": false,
+        "isrc": "USRC11902061",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/82/10/ef/8210ef64-b091-5a07-6bb7-0e0cedb259d2/886447864623.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cc4f6e",
+          "textColor2": "fc4844",
+          "textColor4": "ce3d39",
+          "textColor1": "fa5f86",
+          "bgColor": "14100f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Gerald Gillum, Matthew Samuels, Sergio Kitchens, Rupert Thomas Jr., Jahaan Akil Sweet, Tahrence Brown, Quentin Miller, Larry Gashi & Michael English",
+        "url": "https://music.apple.com/za/album/i-wanna-rock-feat-gunna/1483251259?i=1483251331",
+        "playParams": { "id": "1483251331", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "I Wanna Rock (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/78/16/f4/7816f46d-2bc8-bc1f-4e53-e942b27e3e35/mzaf_15212201643566369565.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "G-Eazy",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1488127130",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1488127130?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Tip Toe (feat. A Boogie wit da Hoodie) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-11-25",
+        "durationInMillis": 185806,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21906657",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/51/4b/52/514b5290-6e7f-56b8-2a07-3a3d710b5d33/075679831439.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "713634",
+          "textColor2": "590d0e",
+          "textColor4": "793b3c",
+          "textColor1": "4f0605",
+          "bgColor": "fcf7f3",
+          "hasP3": false
+        },
+        "composerName": "Artist Dubose, Beck Norling, Gianni van den Brom & Rodrick Moore",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/tip-toe-feat-a-boogie-wit-da-hoodie/1488127129?i=1488127130",
+        "playParams": { "id": "1488127130", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Tip Toe (feat. A Boogie wit da Hoodie)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/34/f7/f5/34f7f56e-f8de-d844-e8b7-6f14b13166b3/mzaf_484307101413068911.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1487262915",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1487262915?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Reply (feat. Lil Uzi Vert) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-11-15",
+        "durationInMillis": 183589,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21906590",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/fb/8a/a1/fb8aa1c9-8f7e-129a-546a-c255913c68c2/075679831699.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "313131",
+          "textColor2": "1c1c1c",
+          "textColor4": "424242",
+          "textColor1": "070707",
+          "bgColor": "d9d9d9",
+          "hasP3": false
+        },
+        "composerName": "Artist Dubose, Joseph Zoumboulias, Kevin Andre Price & Symere Woods",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/reply-feat-lil-uzi-vert/1487262914?i=1487262915",
+        "playParams": { "id": "1487262915", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Reply (feat. Lil Uzi Vert)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/3f/2e/7e/3f2e7eef-80bc-21fb-d49e-c7e4970187c9/mzaf_12432350659493757832.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "A Boogie wit da Hoodie",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1469500935",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1469500935?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Perfect Ten",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2019-06-28",
+        "durationInMillis": 180435,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71911808",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/7a/d8/9e/7ad89ea5-fe63-64c3-3026-612be034bb4f/19UMGIM55036.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfb3b6",
+          "textColor2": "f58546",
+          "textColor4": "cf6f3c",
+          "textColor1": "e0dadf",
+          "bgColor": "391614",
+          "hasP3": false
+        },
+        "composerName": "Dijon McFarlane, Shah Rukh Zaman Khan, Rodrick Wayne Moore, Donell Jones, Ermias Joseph Asghedom & Justus Alexander West",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/ballin/1469500805?i=1469500935",
+        "playParams": { "id": "1469500935", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Ballin\u2019",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/34/18/d5/3418d52b-4909-c5d2-99be-c0c99c91bf93/mzaf_7969192945612263158.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mustard & Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1492389436",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1492389436?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Much Fun (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-12-20",
+        "durationInMillis": 210733,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21907512",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e0/a5/35/e0a53578-a18d-44aa-d4a1-418daf2ac711/075679829153.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbbfc2",
+          "textColor2": "fe2d29",
+          "textColor4": "df2623",
+          "textColor1": "e5ebef",
+          "bgColor": "640d0c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/diamonds-feat-gunna/1492389435?i=1492389436",
+        "playParams": { "id": "1492389436", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Diamonds (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/6b/f2/95/6bf29511-0f41-007f-7160-e7875e1e7a04/mzaf_4945388440339421669.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1492389439",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1492389439?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Much Fun (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 2,
+        "releaseDate": "2019-12-20",
+        "durationInMillis": 174067,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21907513",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e0/a5/35/e0a53578-a18d-44aa-d4a1-418daf2ac711/075679829153.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbbfc2",
+          "textColor2": "fe2d29",
+          "textColor4": "df2623",
+          "textColor1": "e5ebef",
+          "bgColor": "640d0c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/hop-off-a-jet-feat-travis-scott/1492389435?i=1492389439",
+        "playParams": { "id": "1492389439", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Hop Off a Jet (feat. Travis Scott)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/de/90/6a/de906a90-4e73-a804-486b-566d3ca27917/mzaf_6814858839425575908.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Young Thug"
+      }
+    },
+    {
+      "id": "1492389441",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1492389441?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "So Much Fun (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2019-12-20",
+        "durationInMillis": 157520,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21907515",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/e0/a5/35/e0a53578-a18d-44aa-d4a1-418daf2ac711/075679829153.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbbfc2",
+          "textColor2": "fe2d29",
+          "textColor4": "df2623",
+          "textColor1": "e5ebef",
+          "bgColor": "640d0c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffery Williams, Makalo & Wesley Glass",
+        "url": "https://music.apple.com/za/album/millions/1492389435?i=1492389441",
+        "playParams": { "id": "1492389441", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Millions",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1f/05/5b/1f055bf1-caab-74c5-169e-a0212d87e786/mzaf_17930625824679033922.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1482317478",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1482317478?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "True 2 Myself",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2019-08-09",
+        "durationInMillis": 224000,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11904899",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/a3/f5/a4/a3f5a438-20c2-dfb8-baed-18f779145c37/886447993224.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c1c1c1",
+          "textColor2": "d1d1d1",
+          "textColor4": "a9a9a9",
+          "textColor1": "efefef",
+          "bgColor": "0a0a0a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Lil Tjay, Matthew Amis Bell & Artem Romanov",
+        "url": "https://music.apple.com/za/album/f-n/1482317460?i=1482317478",
+        "playParams": { "id": "1482317478", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "F.N",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/aa/f0/88/aaf0888a-8432-f94e-06c0-d509561a244a/mzaf_17231950896185073752.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Tjay"
+      }
+    },
+    {
+      "id": "1490463936",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1490463936?l=en-GB",
+      "attributes": {
+        "albumName": "Please Excuse Me For Being Antisocial",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 15,
+        "releaseDate": "2019-11-25",
+        "durationInMillis": 185806,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21906657",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/9c/e1/28/9ce128ee-fc1a-94f7-34fd-e0538a848964/075679829085.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3a3a3a",
+          "textColor2": "232323",
+          "textColor4": "4f4f4f",
+          "textColor1": "090909",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Artist Dubose, Beck Norling, Gianni van den Brom & Rodrick Moore",
+        "url": "https://music.apple.com/za/album/tip-toe-feat-a-boogie-wit-da-hoodie/1490463311?i=1490463936",
+        "playParams": { "id": "1490463936", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Tip Toe (feat. A Boogie wit da Hoodie)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/26/e9/22/26e92297-d9f8-4c99-3cab-6284abc30bcf/mzaf_8016177917805930812.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1490463331",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1490463331?l=en-GB",
+      "attributes": {
+        "albumName": "Please Excuse Me For Being Antisocial",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2019-10-25",
+        "durationInMillis": 158692,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21905968",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/9c/e1/28/9ce128ee-fc1a-94f7-34fd-e0538a848964/075679829085.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3a3a3a",
+          "textColor2": "232323",
+          "textColor4": "4f4f4f",
+          "textColor1": "090909",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jasper Lee Harris, Rodrick Moore, Sergio Kitchens & Tahj Morgan",
+        "url": "https://music.apple.com/za/album/start-wit-me-feat-gunna/1490463311?i=1490463331",
+        "playParams": { "id": "1490463331", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Start wit Me (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/15/3e/d3/153ed352-4145-56ee-a4da-a8945ad028d9/mzaf_7771889088663228176.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1490463637",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1490463637?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Please Excuse Me For Being Antisocial",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2019-12-06",
+        "durationInMillis": 142710,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21906979",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/9c/e1/28/9ce128ee-fc1a-94f7-34fd-e0538a848964/075679829085.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3a3a3a",
+          "textColor2": "232323",
+          "textColor4": "4f4f4f",
+          "textColor1": "090909",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Anthony Beecham, Eric Anthony Sandoval & Rodrick Moore",
+        "url": "https://music.apple.com/za/album/perfect-time/1490463311?i=1490463637",
+        "playParams": { "id": "1490463637", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Perfect Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fc/bf/26/fcbf2667-edee-fa44-adff-f342c993223d/mzaf_17443250512145293585.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1490463728",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1490463728?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Please Excuse Me For Being Antisocial",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2019-12-06",
+        "durationInMillis": 220487,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21906985",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/9c/e1/28/9ce128ee-fc1a-94f7-34fd-e0538a848964/075679829085.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3a3a3a",
+          "textColor2": "232323",
+          "textColor4": "4f4f4f",
+          "textColor1": "090909",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Dijon McFarlane, Rodrick Moore & Shahrukh Zaman Khan",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/high-fashion-feat-mustard/1490463311?i=1490463728",
+        "playParams": { "id": "1490463728", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "High Fashion (feat. Mustard)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/75/20/57/75205725-583a-2886-43de-56a9dd9f23ee/mzaf_15320635871411756536.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1478190122",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1478190122?l=en-GB",
+      "attributes": {
+        "albumName": "We Love You Tecca",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "2019-08-30",
+        "durationInMillis": 128715,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71917712",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/07/79/51/0779510a-d653-2d00-2454-ff423b25fb20/19UMGIM78833.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "3a2217",
+          "textColor2": "37150c",
+          "textColor4": "5e2618",
+          "textColor1": "0a0f0a",
+          "bgColor": "fb6b49",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Taz Taylor, Tyler-Justin Anthony Sharpe & Dez Wright",
+        "url": "https://music.apple.com/za/album/the-score/1478189929?i=1478190122",
+        "playParams": { "id": "1478190122", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "The Score",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/76/a1/b5/76a1b506-9b57-bf10-a09b-547483de7f7a/mzaf_5074053338714118875.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Tecca",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1469500921",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1469500921?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Perfect Ten",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2019-06-28",
+        "durationInMillis": 174100,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71911804",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music112/v4/7a/d8/9e/7ad89ea5-fe63-64c3-3026-612be034bb4f/19UMGIM55036.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfb3b6",
+          "textColor2": "f58546",
+          "textColor4": "cf6f3c",
+          "textColor1": "e0dadf",
+          "bgColor": "391614",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dijon McFarlane, Larry Sanders, Navraj Singh Goraya, Jordan Carter & Artist Julius Dubose",
+        "url": "https://music.apple.com/za/album/baguettes-in-the-face-feat-nav-playboi-carti-a/1469500805?i=1469500921",
+        "playParams": { "id": "1469500921", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie wit da Hoodie)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/a6/e7/24/a6e72474-971d-b99f-60c3-ce7a5ade2c76/mzaf_3620995877545967197.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Mustard",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1476606546",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1476606546?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Ransom (Remix) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-08-15",
+        "durationInMillis": 171179,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11903068",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/59/bf/f6/59bff6c7-a3af-1b08-5f0c-afaf32527c0f/19UMGIM74762.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cfb224",
+          "textColor2": "ffd241",
+          "textColor4": "d1ad3a",
+          "textColor1": "fdd827",
+          "bgColor": "1b1b1b",
+          "hasP3": false
+        },
+        "composerName": "Nick Mira, Taz Taylor, Jarad Higgins & Tyler-Justin Anthony Sharpe",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/ransom-remix/1476606292?i=1476606546",
+        "playParams": { "id": "1476606546", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Ransom (Remix)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/f8/9f/f6/f89ff663-4a16-4ce6-c8e4-4732c78ef432/mzaf_16222019077941167353.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Tecca & Juice WRLD",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1494073581",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1494073581?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Sum 2 Prove - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-10",
+        "durationInMillis": 205760,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11902886",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/68/97/09/689709b0-6bfb-0a8f-1518-2e3dea4bcd11/20UMGIM00630.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ced2df",
+          "textColor2": "dfd8d1",
+          "textColor4": "b4b7bd",
+          "textColor1": "fffbfc",
+          "bgColor": "0b326d",
+          "hasP3": false
+        },
+        "composerName": "Dominique Jones & Deundraeus Portis",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/sum-2-prove/1494073580?i=1494073581",
+        "playParams": { "id": "1494073581", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Sum 2 Prove",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/5e/34/ee/5e34eeb1-23d9-b1f0-a5d2-308732c7c961/mzaf_1865260089390678610.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1490463937",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1490463937?l=en-GB",
+      "attributes": {
+        "albumName": "Please Excuse Me For Being Antisocial",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 16,
+        "releaseDate": "2019-12-06",
+        "durationInMillis": 195668,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21906989",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/9c/e1/28/9ce128ee-fc1a-94f7-34fd-e0538a848964/075679829085.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "3a3a3a",
+          "textColor2": "232323",
+          "textColor4": "4f4f4f",
+          "textColor1": "090909",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Ashley Kember, Eric Anthony Sandoval & Rodrick Moore",
+        "url": "https://music.apple.com/za/album/war-baby/1490463311?i=1490463937",
+        "playParams": { "id": "1490463937", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "War Baby",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7a/9f/33/7a9f33ed-9657-a450-1e30-828cd9e86f59/mzaf_14206770713934139284.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Roddy Ricch",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1491974987",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1491974987?l=en-GB",
+      "attributes": {
+        "albumName": "20/20 - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-01-01",
+        "durationInMillis": 230448,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11914726",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a2/7b/ec/a27becb1-dd0d-85f0-09be-81f0c50a3c05/886448201946.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbcb",
+          "textColor2": "e3e3e3",
+          "textColor4": "b6b6b6",
+          "textColor1": "ffffff",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Lil Tjay, Levi de Jong & Placido Diego Elson",
+        "url": "https://music.apple.com/za/album/20-20/1491974982?i=1491974987",
+        "playParams": { "id": "1491974987", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "20/20",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/44/21/a5/4421a50a-0b7b-62e7-6986-1ab3f750c127/mzaf_11182192189756543547.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Tjay",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1467420046",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1467420046?l=en-GB",
+      "attributes": {
+        "albumName": "Long Live Mexico",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2019-05-28",
+        "durationInMillis": 162400,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE31992243",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/d1/2b/e5/d12be5e1-7d97-ac41-8a75-ed42a8b97394/814908028307.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c1bcb2",
+          "textColor2": "ede6df",
+          "textColor4": "c5bab3",
+          "textColor1": "e8e8df",
+          "bgColor": "250d01",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/pull-up-feat-lil-uzi-vert-ynw-melly/1467419574?i=1467420046",
+        "playParams": { "id": "1467420046", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Pull Up (feat. Lil Uzi Vert & YNW Melly)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/65/65/53/6565533f-ca01-944e-3fd5-b2f1becd7786/mzaf_9108596658161777433.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Keed",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1482663485",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1482663485?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Somebody - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2019-10-10",
+        "durationInMillis": 174333,
+        "isMasteredForItunes": false,
+        "isrc": "QZJ841900026",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/04/0c/a1/040ca160-4311-1db2-6d59-894fef8e5857/19UMGIM90458.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "cbcbc8",
+          "textColor2": "d8ceca",
+          "textColor4": "ada4a1",
+          "textColor1": "fffefb",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "composerName": "Nicholas Mira & Danny Snodgrass Jr.",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/somebody/1482663483?i=1482663485",
+        "playParams": { "id": "1482663485", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Somebody",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a2/69/36/a26936c6-79b9-b050-7d6e-f553239e7278/mzaf_5101676324862463387.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Internet Money, Lil Tecca & A Boogie wit da Hoodie",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1498673875",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498673875?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Artist 2.0",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 5,
+        "releaseDate": "2020-02-14",
+        "durationInMillis": 188563,
+        "isMasteredForItunes": true,
+        "isrc": "USAT22000604",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/8d/23/9d8d23f6-3be2-ed9f-ab10-195323fd2c04/075679823359.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c1bcbf",
+          "textColor2": "c1dbeb",
+          "textColor4": "a0b0be",
+          "textColor1": "eaeaec",
+          "bgColor": "1c050a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Artist Dubose, Dylan Cleary-Krell, London Holmes, Rodrick Moore & Sergio Kitchens",
+        "url": "https://music.apple.com/za/album/numbers-feat-roddy-ricch-gunna-and-london-on-da-track/1498673868?i=1498673875",
+        "playParams": { "id": "1498673875", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d0/62/11/d06211ce-0c47-50e3-68fd-ea05ea9d2f6c/mzaf_16548955103481547746.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "A Boogie wit da Hoodie"
+      }
+    },
+    {
+      "id": "1498674097",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498674097?l=en-GB",
+      "attributes": {
+        "albumName": "Artist 2.0",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 16,
+        "releaseDate": "2020-02-14",
+        "durationInMillis": 161056,
+        "isMasteredForItunes": true,
+        "isrc": "USAT22000614",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/8d/23/9d8d23f6-3be2-ed9f-ab10-195323fd2c04/075679823359.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c1bcbf",
+          "textColor2": "c1dbeb",
+          "textColor4": "a0b0be",
+          "textColor1": "eaeaec",
+          "bgColor": "1c050a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Artist Dubose, Damile Coste, Joseph Boyden, Joseph Zoumboulias & Symere Woods",
+        "url": "https://music.apple.com/za/album/luv-is-art-feat-lil-uzi-vert/1498673868?i=1498674097",
+        "playParams": { "id": "1498674097", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Luv Is Art (feat. Lil Uzi Vert)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/d9/b2/e9/d9b2e911-ecbc-ec27-ea25-4f20d2945960/mzaf_6599041363245826532.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "A Boogie wit da Hoodie",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1498989227",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498989227?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "My Turn",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2020-02-28",
+        "durationInMillis": 197530,
+        "isMasteredForItunes": true,
+        "isrc": "USUG12000034",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/78/e9/9b/78e99b99-84a0-9673-90b4-2b5c23ab4a51/20UMGIM04591.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a3a4a1",
+          "textColor2": "a6c3d8",
+          "textColor4": "869fae",
+          "textColor1": "cacac7",
+          "bgColor": "080f08",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones & Deundraeus Portis",
+        "url": "https://music.apple.com/za/album/emotionally-scarred/1498988850?i=1498989227",
+        "playParams": { "id": "1498989227", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Emotionally Scarred",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/e9/d8/6b/e9d86be3-689e-f417-21c9-38f4b7ad3ab6/mzaf_11402957481513317083.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1498989237",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498989237?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "My Turn",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 15,
+        "releaseDate": "2019-11-15",
+        "durationInMillis": 182330,
+        "isMasteredForItunes": true,
+        "isrc": "USUG11902873",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/78/e9/9b/78e99b99-84a0-9673-90b4-2b5c23ab4a51/20UMGIM04591.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a3a4a1",
+          "textColor2": "a6c3d8",
+          "textColor4": "869fae",
+          "textColor1": "cacac7",
+          "bgColor": "080f08",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones & Chauncey Hollis",
+        "url": "https://music.apple.com/za/album/catch-the-sun-from-queen-slim-the-soundtrack/1498988850?i=1498989237",
+        "playParams": { "id": "1498989237", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Catch The Sun (From \"Queen & Slim: The Soundtrack\")",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ca/21/0d/ca210d8e-0eba-2a0a-0846-98f8b1d710c8/mzaf_1538479458748222735.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Baby"
+      }
+    },
+    {
+      "id": "1498989230",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498989230?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "My Turn",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2020-02-28",
+        "durationInMillis": 214215,
+        "isMasteredForItunes": true,
+        "isrc": "USUG12000062",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/78/e9/9b/78e99b99-84a0-9673-90b4-2b5c23ab4a51/20UMGIM04591.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a3a4a1",
+          "textColor2": "a6c3d8",
+          "textColor4": "869fae",
+          "textColor1": "cacac7",
+          "bgColor": "080f08",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones, Symere Woods, Brytavious Lakeith Chambers, Keanu Torres & Fabio Aguilar",
+        "url": "https://music.apple.com/za/album/commercial-feat-lil-uzi-vert/1498988850?i=1498989230",
+        "playParams": { "id": "1498989230", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Commercial (feat. Lil Uzi Vert)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/03/24/fb/0324fb00-dc29-1d2b-e6fd-cb99fb14666b/mzaf_4128689599138813032.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1498988855",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1498988855?l=en-GB",
+      "attributes": {
+        "albumName": "My Turn",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2020-02-28",
+        "durationInMillis": 182000,
+        "isMasteredForItunes": true,
+        "isrc": "USUG12000047",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/78/e9/9b/78e99b99-84a0-9673-90b4-2b5c23ab4a51/20UMGIM04591.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a3a4a1",
+          "textColor2": "a6c3d8",
+          "textColor4": "869fae",
+          "textColor1": "cacac7",
+          "bgColor": "080f08",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Dominique Jones & Shane Lindstrom",
+        "url": "https://music.apple.com/za/album/how/1498988850?i=1498988855",
+        "playParams": { "id": "1498988855", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "How",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/53/da/97/53da97c4-5392-b56a-261c-a400d0df0acb/mzaf_7338246493378297691.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1467419723",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1467419723?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Long Live Mexico",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2019-06-14",
+        "durationInMillis": 256627,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE31902275",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/d1/2b/e5/d12be5e1-7d97-ac41-8a75-ed42a8b97394/814908028307.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c1bcb2",
+          "textColor2": "ede6df",
+          "textColor4": "c5bab3",
+          "textColor1": "e8e8df",
+          "bgColor": "250d01",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/anybody-feat-lil-duke-gunna/1467419574?i=1467419723",
+        "playParams": { "id": "1467419723", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Anybody (feat. Lil Duke & Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/43/06/be/4306be36-3f6b-0ecd-f2d8-56552cadb19c/mzaf_2729194115378353131.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Keed",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1457014738",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1457014738?l=en-GB",
+      "attributes": {
+        "albumName": "Drip Season 3 (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 4,
+        "releaseDate": "2018-02-02",
+        "durationInMillis": 229859,
+        "isMasteredForItunes": false,
+        "isrc": "QZ5FA1751994",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e7/53/16/e7531670-83b2-07f9-7cde-812d0aa2aae4/814908027706.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "043b0d",
+          "textColor2": "023b04",
+          "textColor4": "026107",
+          "textColor1": "050b0b",
+          "bgColor": "00f917",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/at-the-hotel-feat-lil-uzi-vert-young-jordan/1457014642?i=1457014738",
+        "playParams": { "id": "1457014738", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "At the Hotel (feat. Lil Uzi Vert & Young Jordan)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/49/a5/6a49a58b-db9f-0ec0-5c79-31571be483fa/mzaf_2789178379368931015.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1428236611",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1428236611?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Slime Language",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2018-08-17",
+        "durationInMillis": 219413,
+        "isMasteredForItunes": false,
+        "isrc": "USAT21810462",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/96/0e/aa960e28-fec4-3f6f-adbd-84a27e3321cc/075679865113.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "262626",
+          "textColor2": "451615",
+          "textColor4": "593332",
+          "textColor1": "060606",
+          "bgColor": "a9a9a9",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/sts-feat-strick/1428233006?i=1428236611",
+        "playParams": { "id": "1428236611", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "STS (feat. Strick)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/ac/68/d9ac682a-e4a2-8d95-0275-0225093d1c8b/mzaf_17327821183349755921.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Young Thug & Young Stoner Life",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1507248699",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1507248699?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Out of Love (feat. Internet money) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-04-17",
+        "durationInMillis": 153597,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72007332",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/64/09/82/64098224-ca6f-a28f-23ca-fcc8ff398761/20UMGIM25424.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "a2bee5",
+          "textColor2": "ced0f9",
+          "textColor4": "b3b4e6",
+          "textColor1": "baddf7",
+          "bgColor": "45439c",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Tyler-Justin Anthony Sharpe, Danny Snodgrass Jr., FREDERIK THRANE, William Repko II & Anders Lun\u00f8e",
+        "url": "https://music.apple.com/za/album/out-of-love-feat-internet-money/1507248698?i=1507248699",
+        "playParams": { "id": "1507248699", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Out of Love (feat. Internet money)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/91/d2/ec/91d2ec92-6833-f35e-60bc-435ae7cd3e3c/mzaf_5812653336984334110.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Lil Tecca"
+      }
+    },
+    {
+      "id": "1484890368",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1484890368?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Monster",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2014-10-28",
+        "durationInMillis": 346907,
+        "isMasteredForItunes": false,
+        "isrc": "USSM11913494",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/85/e8/ef85e88f-1d20-e135-5ae0-2da50f076052/886448089834.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "b6b7b3",
+          "textColor2": "fb6464",
+          "textColor4": "c95050",
+          "textColor1": "e4e5e0",
+          "bgColor": "000000",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Nayvadius Wilburn & Bryan Simmons",
+        "url": "https://music.apple.com/za/album/codeine-crazy/1484889814?i=1484890368",
+        "playParams": { "id": "1484890368", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Codeine Crazy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6a/67/0a/6a670a04-864b-747c-ca6d-40d5fb293e82/mzaf_760526676035577251.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Future",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1509370929",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1509370929?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "All In - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-04-24",
+        "durationInMillis": 156032,
+        "isMasteredForItunes": true,
+        "isrc": "USUG12000082",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/48/f0/4d/48f04d41-3c84-8b84-7b95-7e2e8c7b5ac3/20UMGIM30577.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfbac2",
+          "textColor2": "c3bdd2",
+          "textColor4": "9f9bad",
+          "textColor1": "ebe4ed",
+          "bgColor": "10121a",
+          "hasP3": false
+        },
+        "composerName": "Dominique Jones & Chris Rosser",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/all-in/1509370895?i=1509370929",
+        "playParams": { "id": "1509370929", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "All In",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0b/44/75/0b44751d-8661-8f38-e4fc-1b45b9f10bd5/mzaf_1090589138889530461.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1511575595",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1511575595?l=en-GB",
+      "attributes": {
+        "albumName": "Good Intentions",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2020-05-08",
+        "durationInMillis": 188118,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72009632",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/e2/07/95/e2079555-a06e-d113-fcb6-c6624bc56245/20UMGIM34880.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bb583e",
+          "textColor2": "f24747",
+          "textColor4": "c23a3a",
+          "textColor1": "e86d4c",
+          "bgColor": "040404",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Navraj Goraya, Pro Logic, Sergio Giavanni Kitchens & AMIR ESMAILIAN",
+        "url": "https://music.apple.com/za/album/codeine-feat-gunna/1511575331?i=1511575595",
+        "playParams": { "id": "1511575595", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Codeine (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5e/a0/cc/5ea0ccf4-9d04-a2e9-8bb4-44f435636563/mzaf_3544107534423447889.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1511575796",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1511575796?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Good Intentions",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 10,
+        "releaseDate": "2020-05-08",
+        "durationInMillis": 179372,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72009608",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/e2/07/95/e2079555-a06e-d113-fcb6-c6624bc56245/20UMGIM34880.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bb583e",
+          "textColor2": "f24747",
+          "textColor4": "c23a3a",
+          "textColor1": "e86d4c",
+          "bgColor": "040404",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Navraj Goraya, Bashar Barakah Jackson, Slow, AMIR ESMAILIAN, Pro Logic & Money Musik",
+        "url": "https://music.apple.com/za/album/run-it-up-feat-pop-smoke/1511575331?i=1511575796",
+        "playParams": { "id": "1511575796", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Run It Up (feat. Pop Smoke)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/61/cf/a5/61cfa57c-bfcf-bf1c-9fd3-16aa439a8f03/mzaf_12773700032582381804.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "986012230",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/986012230?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Barter 6",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2015-04-17",
+        "durationInMillis": 226733,
+        "isMasteredForItunes": true,
+        "isrc": "USAT21501230",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "d1c198",
+          "textColor2": "ec6e3e",
+          "textColor4": "c25d37",
+          "textColor1": "ffedb7",
+          "bgColor": "1d161d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffery Williams & Kip Hilson",
+        "url": "https://music.apple.com/za/album/halftime/986011611?i=986012230",
+        "playParams": { "id": "986012230", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Halftime",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fc/be/f9/fcbef91b-422e-1c47-86b7-7aaaf56edbed/mzaf_14570742275142632367.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Young Thug"
+      }
+    },
+    {
+      "id": "1514490406",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490406?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 8,
+        "releaseDate": "2020-05-18",
+        "durationInMillis": 158240,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000128",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "composerName": "Sergio Kitchens",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/wunna/1514490028?i=1514490406",
+        "playParams": { "id": "1514490406", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "WUNNA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/5e/a5/135ea517-d96d-1b63-2c34-2e21e271e014/mzaf_2301804972337900359.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1514490409",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490409?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 11,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 149133,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000232",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Sergio Kitchens & Wesley Tyler Glass",
+        "url": "https://music.apple.com/za/album/met-gala/1514490028?i=1514490409",
+        "playParams": { "id": "1514490409", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "MET GALA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/07/0c/0e/070c0e1b-10be-6578-3f6f-616c53fd0cb5/mzaf_8251081060150844448.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1514490487",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490487?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 17,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 152387,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000238",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Sergio Kitchens & Wesley Tyler Glass",
+        "url": "https://music.apple.com/za/album/do-better/1514490028?i=1514490487",
+        "playParams": { "id": "1514490487", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "DO BETTER",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/77/58/c0775853-fe0e-4ac0-9ba2-5d178a8570c4/mzaf_7897962984727053500.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1514490032",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490032?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 152680,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000226",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Sergio Kitchens & Wesley Tyler Glass",
+        "url": "https://music.apple.com/za/album/motw/1514490028?i=1514490032",
+        "playParams": { "id": "1514490032", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "MOTW",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d4/44/75/d444752b-66f9-e13e-4832-1bfe96a7b9cb/mzaf_15467017068266207870.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1514490030",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490030?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 149133,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000224",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Kenneth Keyshawn Gilmore, Sergio Kitchens & Wesley Tyler Glass",
+        "url": "https://music.apple.com/za/album/argentina/1514490028?i=1514490030",
+        "playParams": { "id": "1514490030", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "ARGENTINA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e3/ce/fc/e3cefcbb-aac2-9d56-de79-7131370e0f6d/mzaf_12065339777517511319.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1502708332",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1502708332?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "2020-03-13",
+        "durationInMillis": 194844,
+        "isMasteredForItunes": false,
+        "isrc": "USAT22001642",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/7b/17/ba/7b17ba6b-a227-328a-d72e-de65a2e06314/075679820310.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "c6cbcb",
+          "textColor2": "f4ef03",
+          "textColor4": "c3bf02",
+          "textColor1": "f8fefe",
+          "bgColor": "010101",
+          "hasP3": false
+        },
+        "composerName": "AMIR ESMAILIAN, Mohkom Singh Bhangal, Navraj Singh Goraya & Symere Woods",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/leaders-feat-nav/1502707380?i=1502708332",
+        "playParams": { "id": "1502708332", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Leaders (feat. NAV)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/78/ec/34/78ec34d3-07de-608e-c236-41c799203b6f/mzaf_3286787682205348843.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Lil Uzi Vert",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1505632967",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1505632967?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "QUARANTINE CLEAN - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-04-02",
+        "durationInMillis": 217728,
+        "isMasteredForItunes": false,
+        "isrc": "USUG12001276",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/dc/a8/c4/dca8c419-6a64-d71d-04b5-240fb08fbdad/20UMGIM25027.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "333333",
+          "textColor2": "1a1a1a",
+          "textColor4": "474747",
+          "textColor1": "000000",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Chandler Durham, Sergio Kitchens & Jeffery Williams",
+        "url": "https://music.apple.com/za/album/quarantine-clean/1505632704?i=1505632967",
+        "playParams": { "id": "1505632967", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "QUARANTINE CLEAN",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/64/06/91/6406913d-0f3a-aacc-f0aa-b805da2ab7de/mzaf_14696315666124243780.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Turbo, Gunna & Young Thug",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1514490413",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490413?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 197000,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000234",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeffrey Lacroix, Lucas Difabbio, Rodrick Moore & Sergio Kitchens",
+        "url": "https://music.apple.com/za/album/cooler-than-a-bitch-feat-roddy-ricch/1514490028?i=1514490413",
+        "playParams": { "id": "1514490413", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "COOLER THAN A BITCH (feat. Roddy Ricch)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/11/38/b1/1138b171-a1cf-f3e6-3561-451adc16f194/mzaf_964004503844734867.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1514490412",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1514490412?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 12,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 230600,
+        "isMasteredForItunes": true,
+        "isrc": "QMCE32000233",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/82/db/15/82db15f2-22b2-728a-2a44-ebd7b58b2f9e/810043680837.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "e4dcde",
+          "textColor2": "f7e8fb",
+          "textColor4": "e0cbdf",
+          "textColor1": "fdfffa",
+          "bgColor": "83556f",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Sergio Kitchens",
+        "url": "https://music.apple.com/za/album/nasty-girl-on-camera/1514490028?i=1514490412",
+        "playParams": { "id": "1514490412", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "NASTY GIRL / ON CAMERA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c0/21/61/c021613e-757f-a1da-20d2-5c6cb0538e0a/mzaf_6275763139694779949.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1524714664",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1524714664?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Cafeteria (feat. Gunna) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-07-24",
+        "durationInMillis": 214286,
+        "isMasteredForItunes": false,
+        "isrc": "USSM12002557",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/39/a6/13/39a61384-6653-c8fd-353b-2f33bce3bbe1/886448513377.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "383838",
+          "textColor2": "323232",
+          "textColor4": "555555",
+          "textColor1": "0d0d0d",
+          "bgColor": "e2e2e2",
+          "hasP3": false
+        },
+        "composerName": "Don Toliver, Chase Benjamin, Cole Wainwright, Sean Momberger, Sergio Kitchens, Keith Askey, MIKE DEAN & Ramiro Morales",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/cafeteria-feat-gunna/1524714663?i=1524714664",
+        "playParams": { "id": "1524714664", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Cafeteria (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/23/0d/43/230d436a-3f29-df44-7f81-79384ca12ad6/mzaf_2593928828885332066.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "CHASE B & Don Toliver",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1524860984",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1524860984?l=en-GB",
+      "attributes": {
+        "albumName": "WUNNA (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 23,
+        "releaseDate": "2020-05-22",
+        "durationInMillis": 168107,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE32000362",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cb/f0/02/cbf002ed-38d5-3cb2-78ba-641af55c5d53/810043681926.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "0bd9a3",
+          "textColor2": "1beb90",
+          "textColor4": "16ce88",
+          "textColor1": "0ef9b2",
+          "bgColor": "005a65",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Nik Dejan Frascona, Ozan Yildirim, Sergio Kitchens, Symere Woods & Wesley Tyler Glass",
+        "url": "https://music.apple.com/za/album/relentless-feat-lil-uzi-vert/1524859942?i=1524860984",
+        "playParams": { "id": "1524860984", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "RELENTLESS (feat. Lil Uzi Vert)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b5/b3/7a/b5b37a86-6c29-1a95-6627-7b330906eb49/mzaf_1203479565350348656.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1441571937",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1441571937?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Order - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-11-16",
+        "durationInMillis": 183532,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71816897",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/cf/cd/3e/cfcd3e1a-344b-5e67-6efb-778f3f3cf071/00602577208751.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "c3c1c2",
+          "textColor2": "a2dfed",
+          "textColor4": "87b7c4",
+          "textColor1": "edebec",
+          "bgColor": "1a181d",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Bryan Lamar Simmons, Joshua Luellen & Sergio Kitchens",
+        "url": "https://music.apple.com/za/album/order/1441571935?i=1441571937",
+        "playParams": { "id": "1441571937", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Order",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bb/91/b3/bb91b398-8b48-1c2d-18c6-78b787423088/mzaf_10383121638192305259.plus.aac.ep.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "TM88, Southside & Gunna"
+      }
+    },
+    {
+      "id": "1452313880",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1452313880?l=en-GB",
+      "attributes": {
+        "albumName": "Drip or Drown 2",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 16,
+        "releaseDate": "2019-02-22",
+        "durationInMillis": 151539,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE31902029",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/45/31/9645314d-34fc-3fc4-0339-85e30f455cd9/814908027522.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "293e45",
+          "textColor2": "121f24",
+          "textColor4": "2e4349",
+          "textColor1": "0c1a1f",
+          "bgColor": "9dd1de",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Sergio Kitchens & Wesley Glass",
+        "url": "https://music.apple.com/za/album/who-you-foolin/1452313862?i=1452313880",
+        "playParams": { "id": "1452313880", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Who You Foolin",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/62/2d/bb/622dbb1a-cd43-9402-3353-5039578b19da/mzaf_4375032152419366704.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1524860399",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1524860399?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "WUNNA (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 13,
+        "releaseDate": "2020-07-24",
+        "durationInMillis": 129827,
+        "isMasteredForItunes": false,
+        "isrc": "QMCE32000360",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cb/f0/02/cbf002ed-38d5-3cb2-78ba-641af55c5d53/810043681926.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "0bd9a3",
+          "textColor2": "1beb90",
+          "textColor4": "16ce88",
+          "textColor1": "0ef9b2",
+          "bgColor": "005a65",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Alex Lustig, Kenneth Keyshawn Gilmore, Sergio Kitchens & Taurus Currie Jr.",
+        "url": "https://music.apple.com/za/album/dirty-diana/1524859942?i=1524860399",
+        "playParams": { "id": "1524860399", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "DIRTY DIANA",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/2a/57/f32a57d8-a63f-70c6-f176-ebc192233303/mzaf_2718580314928866611.plus.aac.p.m4a"
+          }
+        ],
+        "contentRating": "explicit",
+        "artistName": "Gunna"
+      }
+    },
+    {
+      "id": "1396582696",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1396582696?l=en-GB",
+      "attributes": {
+        "albumName": "Us (feat. Gunna) - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-06-08",
+        "durationInMillis": 161933,
+        "isMasteredForItunes": false,
+        "isrc": "USUYG1203329",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a3/0b/76/a30b7682-d3d2-b01f-5645-beb6def4995c/888915654125_cover.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "323637",
+          "textColor2": "131313",
+          "textColor4": "404242",
+          "textColor1": "020405",
+          "bgColor": "f4fdfe",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/us-feat-gunna/1396582691?i=1396582696",
+        "playParams": { "id": "1396582696", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Us (feat. Gunna)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/72/98/af/7298af7d-fa21-f9cb-5cec-4debde785e1f/mzaf_17948158669599437733.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Dave East",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1530410074",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1530410074?l=en-GB",
+      "attributes": {
+        "albumName": "Our Time - Single",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-09-11",
+        "durationInMillis": 98449,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72017151",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/fa/01/00fa0180-fb2f-8ffe-02a3-2bea2593c63d/20UMGIM76120.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "d17d3b",
+          "textColor2": "e88844",
+          "textColor4": "c17239",
+          "textColor1": "fc9546",
+          "bgColor": "261c10",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Jeroen Leendert Groenendijk & Tyler-Justin Anthony Sharpe",
+        "url": "https://music.apple.com/za/album/our-time/1530410065?i=1530410074",
+        "playParams": { "id": "1530410074", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Our Time",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/62/24/ff/6224fff6-9f7f-bdef-df92-a26dad807c22/mzaf_12643230847010804025.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Tecca",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1511575353",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1511575353?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Good Intentions",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-05-08",
+        "durationInMillis": 155721,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72009627",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/e2/07/95/e2079555-a06e-d113-fcb6-c6624bc56245/20UMGIM34880.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bb583e",
+          "textColor2": "f24747",
+          "textColor4": "c23a3a",
+          "textColor1": "e86d4c",
+          "bgColor": "040404",
+          "hasP3": false
+        },
+        "composerName": "Navraj Goraya, Pro Logic & Wallis Lane",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/good-intentions-intro/1511575331?i=1511575353",
+        "playParams": { "id": "1511575353", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Good Intentions (Intro)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/86/ec/8d/86ec8d98-8d7f-35d9-33fe-d3606c305de1/mzaf_12844074330738034479.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1528448484",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1528448484?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "B4 The Storm",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 6,
+        "releaseDate": "2020-08-28",
+        "durationInMillis": 163636,
+        "isMasteredForItunes": false,
+        "isrc": "QZJ842000380",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/89/1b/ee/891bee0c-7801-c002-628a-79e83a539343/20UMGIM72809.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bbc6d0",
+          "textColor2": "2390fa",
+          "textColor4": "2278cd",
+          "textColor1": "e3f3ff",
+          "bgColor": "1e1515",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Danny Lee Snodgrass, Jr. & Nicholas Mira",
+        "url": "https://music.apple.com/za/album/jlo-feat-lil-tecca/1528447774?i=1528448484",
+        "playParams": { "id": "1528448484", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "JLO (feat. Lil Tecca)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/1b/bc/10/1bbc10fd-8223-fad6-927b-e298f4ef65e4/mzaf_15441358798472825339.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Internet Money",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1359152461",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1359152461?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Freshman List - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2018-03-16",
+        "durationInMillis": 186808,
+        "isMasteredForItunes": true,
+        "isrc": "USUM71803422",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/48/58/cd/4858cde8-d250-2610-2819-6f1ac723dcab/18UMGIM14956.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "e9c5c6",
+          "textColor2": "f7cac3",
+          "textColor4": "e7a29c",
+          "textColor1": "faf6f7",
+          "bgColor": "a80000",
+          "hasP3": false
+        },
+        "composerName": "Rex Kudo, Navraj Goraya & Ryan Vojtesak",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/freshman-list/1359152117?i=1359152461",
+        "playParams": { "id": "1359152461", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": true,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Freshman List",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/13/2c/13/132c1331-c00f-f8b8-9852-0eefe02b29d6/mzaf_16996395007571162652.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1527182329",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1527182329?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "24 (feat. Lil Baby) - Single",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-02-21",
+        "durationInMillis": 182857,
+        "isMasteredForItunes": false,
+        "isrc": "USUYG1327132",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/08/2c/de/082cdee9-deef-d280-5dcd-146a965bab9e/194690294525_cover.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bf905b",
+          "textColor2": "df904e",
+          "textColor4": "b97743",
+          "textColor1": "e7af6d",
+          "bgColor": "211515",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/24-feat-lil-baby/1527182328?i=1527182329",
+        "playParams": { "id": "1527182329", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "24 (feat. Lil Baby)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/71/84/e2/7184e214-6eb5-14fc-9590-054312074cbd/mzaf_13370968857118845871.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Money Man",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1510840886",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1510840886?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "My Turn (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 23,
+        "releaseDate": "2020-05-01",
+        "durationInMillis": 144652,
+        "isMasteredForItunes": true,
+        "isrc": "USUG12000088",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9f/8f/f9/9f8ff9e7-cbb4-efd6-1335-c0b001f2649a/20UMGIM30253.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "bfbac2",
+          "textColor2": "c3bdd2",
+          "textColor4": "9f9bad",
+          "textColor1": "ebe4ed",
+          "bgColor": "10121a",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Chris Rosser & Dominique Jones",
+        "url": "https://music.apple.com/za/album/low-down/1510840178?i=1510840886",
+        "playParams": { "id": "1510840886", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Low Down",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/3d/ca/1f/3dca1fd0-2a76-5da8-ef0c-9355aa7a6239/mzaf_11573634531042039993.plus.aac.p.m4a"
+          }
+        ],
+        "artistName": "Lil Baby",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1512622648",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1512622648?l=en-GB",
+      "attributes": {
+        "albumName": "Good Intentions (Brown Boy 2 Deluxe Version)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 1,
+        "releaseDate": "2020-05-11",
+        "durationInMillis": 167208,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72010311",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d9/26/98/d926980b-3747-6fc8-0949-7a05ec7e5306/20UMGIM37321.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "1f1d04",
+          "textColor2": "161616",
+          "textColor4": "322f16",
+          "textColor1": "000000",
+          "bgColor": "9f9316",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Navraj Goraya, Brytavious Lakeith Chambers, Tahj Morgan & Nils N\u00f6hden",
+        "url": "https://music.apple.com/za/album/im-up/1512622645?i=1512622648",
+        "playParams": { "id": "1512622648", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "I'm Up",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0d/e8/90/0de8904b-0c18-382f-265a-0895cb29ab70/mzaf_4411706905430406239.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1533837343",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1533837343?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "My Life 4Hunnid",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 9,
+        "releaseDate": "2020-10-02",
+        "durationInMillis": 216954,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72019004",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/52/fa/17/52fa1737-960f-190b-0b8b-1f93d9321dec/20UMGIM79546.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "37312e",
+          "textColor2": "4e0109",
+          "textColor4": "692c32",
+          "textColor1": "0f0704",
+          "bgColor": "d7d7d7",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Keenon Jackson, Dylan James Berg, Kelton Lanier Scott II, Irvin Mejia, Sergio Giavanni Kitchens & Tyrone Griffin",
+        "url": "https://music.apple.com/za/album/surgery-feat-ty-dolla-%24ign/1533836489?i=1533837343",
+        "playParams": { "id": "1533837343", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "lossless", "atmos", "spatial"],
+        "name": "Surgery (feat. Ty Dolla $ign)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/00/a6/69/00a66957-855e-4494-ec91-2d1748756565/mzaf_4131447222078639672.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "YG & Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1538224647",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1538224647?l=en-GB",
+      "attributes": {
+        "albumName": "Emergency Tsunami",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 3,
+        "releaseDate": "2020-11-06",
+        "durationInMillis": 151481,
+        "isMasteredForItunes": true,
+        "isrc": "USUM72021388",
+        "artwork": {
+          "width": 3000,
+          "url": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/ec/52/88/ec5288d7-55a4-d96a-1a59-b24305bc656b/20UMGIM97565.rgb.jpg/{w}x{h}bb.jpg",
+          "height": 3000,
+          "textColor3": "ced1d4",
+          "textColor2": "65b7ce",
+          "textColor4": "5398ad",
+          "textColor1": "ffffff",
+          "bgColor": "0b1d2b",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "composerName": "Navraj Goraya, Wesley Glass, AMIR ESMAILIAN & Sergio Kitchens",
+        "url": "https://music.apple.com/za/album/young-wheezy/1538224312?i=1538224647",
+        "playParams": { "id": "1538224647", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": ["lossy-stereo", "atmos", "spatial", "lossless"],
+        "name": "Young Wheezy",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/92/4c/4c/924c4c3c-0c2d-342a-35b9-38709c57a39c/mzaf_15951171182632962710.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "NAV & Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1457014752",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1457014752?l=en-GB",
+      "attributes": {
+        "albumName": "Drip Season 3 (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 14,
+        "releaseDate": "2018-02-02",
+        "durationInMillis": 186480,
+        "isMasteredForItunes": false,
+        "isrc": "QZ5FA1752003",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e7/53/16/e7531670-83b2-07f9-7cde-812d0aa2aae4/814908027706.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "043b0d",
+          "textColor2": "023b04",
+          "textColor4": "026107",
+          "textColor1": "050b0b",
+          "bgColor": "00f917",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/spending-addiction/1457014642?i=1457014752",
+        "playParams": { "id": "1457014752", "kind": "song" },
+        "discNumber": 1,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Spending Addiction",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/59/b5/5c/59b55c32-56e1-5229-7f00-e0aa9c543794/mzaf_11439686191252680846.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "1457014743",
+      "type": "songs",
+      "href": "/v1/catalog/za/songs/1457014743?l=en-GB",
+      "attributes": {
+        "hasTimeSyncedLyrics": true,
+        "albumName": "Drip Season 3 (Deluxe)",
+        "genreNames": ["Hip-Hop/Rap", "Music"],
+        "trackNumber": 7,
+        "releaseDate": "2018-02-02",
+        "durationInMillis": 225381,
+        "isMasteredForItunes": false,
+        "isrc": "QZ5FA1751992",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e7/53/16/e7531670-83b2-07f9-7cde-812d0aa2aae4/814908027706.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "043b0d",
+          "textColor2": "023b04",
+          "textColor4": "026107",
+          "textColor1": "050b0b",
+          "bgColor": "00f917",
+          "hasP3": false
+        },
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/za/album/pedestrian/1457014642?i=1457014743",
+        "playParams": { "id": "1457014743", "kind": "song" },
+        "discNumber": 1,
+        "isAppleDigitalMaster": false,
+        "hasLyrics": true,
+        "audioTraits": ["lossy-stereo", "lossless"],
+        "name": "Pedestrian",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d4/bb/a4/d4bba4bc-6d36-0431-5233-dd25ce96c3e3/mzaf_6143870522944723952.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gunna",
+        "contentRating": "explicit"
+      }
+    }
+  ]
+}
