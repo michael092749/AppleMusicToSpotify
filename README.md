@@ -1,6 +1,6 @@
 # AppleMusicToSpotify
 
-Converts Apple music playlist to a Spotify music playlist.The apple music playlist URL is parsed and then requests are made to the spotify API to add the songs to a new spotify playlist on your account.
+Converts Apple music playlist to a Spotify music playlist. The apple music playlist URL is parsed and then requests are made to the spotify API to add the songs to a new spotify playlist on your account.
 
 ## Usage
 
