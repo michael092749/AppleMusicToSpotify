@@ -77,7 +77,7 @@ def main():
     spotify_obj = Spotify()
     # track_id = spotify_obj.search_for_track("Pick up the phone")
 
-    playlist = spotify_obj.create_Playlist(name='Kimmy Granger')
+    playlist = spotify_obj.create_Playlist(name='Kimmy G')
     # print(playlist)
     # playlist = '3sNDt3pXrLB2VemdsaEBBS'
     for song in songs[0:50]:
